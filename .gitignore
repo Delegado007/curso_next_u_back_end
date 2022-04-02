@@ -1,0 +1,4 @@
+*.jpg
+/node_modules
+/npm/node_modules
+Unidad_1_Node/npm/node_modules
